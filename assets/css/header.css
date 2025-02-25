@@ -104,7 +104,7 @@ header{
         top: 0;
         padding: 17px 0;
         background: rgba(24, 36, 50, 1);
-        
+
     }
     .open-menu{
         display: flex;
@@ -175,7 +175,7 @@ header{
         width: 100%;
         position: relative;
         z-index: 1;
-        gap: 5px;
+        gap: 12px;
     }
 
 

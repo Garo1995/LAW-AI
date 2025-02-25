@@ -62,7 +62,7 @@ p{
 }
 @media (max-width: 991px){
    header .btn-login, header .btn-reg{
-        max-width: 280px;
+        max-width: 200px;
         width: 100%;
         padding: 10px 25px;
     }
@@ -965,9 +965,7 @@ p{
         font-size: 15px;
         line-height: 21px;
     }
-    .btn-login, .btn-reg, .btn {
-        padding: 7px 25px;
-    }
+ 
 }
 
 
